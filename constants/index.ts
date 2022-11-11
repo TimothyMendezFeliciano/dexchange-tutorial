@@ -1,0 +1,1 @@
+export const chainWaveTokenAddress = "0x143d460Eac29B3313C84630BB046aAaE351e4F3e"
