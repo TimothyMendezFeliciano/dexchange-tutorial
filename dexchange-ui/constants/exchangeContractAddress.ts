@@ -1,0 +1,1 @@
+export const exchangeContractAddress = "0xfFea5D55B9b3770f4AcA05D3C8d7CF02a019646C"
